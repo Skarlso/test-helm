@@ -3,7 +3,17 @@ entries:
   test-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-09-28T10:27:17.712817+02:00"
+    created: "2021-09-28T10:31:19.25503+02:00"
+    description: A Helm chart for Kubernetes
+    digest: d5f8dd5861d4ee4f5c81fbf3030fd77a13fac433178ded2ffd2e8f058deae0eb
+    name: test-chart
+    type: application
+    urls:
+    - https://skarlso.github.io/test-helm/charts/charts/test-chart-0.1.0-mkt-1.tgz
+    version: 0.1.0-mkt-1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-09-28T10:31:19.254494+02:00"
     description: A Helm chart for Kubernetes
     digest: 538b2625296f70a93dffe360f7ac96eff326d46a9959fa65329848cbeddf3303
     name: test-chart
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://skarlso.github.io/test-helm/charts/charts/test-chart-0.1.0-mkt-0.tgz
     version: 0.1.0-mkt-0
-generated: "2021-09-28T10:27:17.711627+02:00"
+generated: "2021-09-28T10:31:19.24973+02:00"
